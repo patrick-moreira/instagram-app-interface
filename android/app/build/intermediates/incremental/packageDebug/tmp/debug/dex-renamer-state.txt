@@ -1,0 +1,4 @@
+#Sun Sep 15 09:45:51 BRT 2019
+base.0=/home/patrick/Documentos/aplicativos/instagram-app-interface/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
